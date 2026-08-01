@@ -1,8 +1,8 @@
-# Predicting Future Business Applications Across U.S. Island Areas
+## Predicting Future Business Applications Across U.S. Island Areas
 
 1.jpg
 
-## Why This Matters
+# Why This Matters
 
 Business applications are often viewed as an early indicator of economic activity and entrepreneurial growth. By examining historical business application data across U.S. island areas, we can better understand how business activity has evolved over time and explore whether past trends can help estimate future application volumes.
 
