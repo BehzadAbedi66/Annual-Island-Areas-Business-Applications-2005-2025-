@@ -1,6 +1,7 @@
 ## Predicting Future Business Applications Across U.S. Island Areas
 
-1.jpg
+<img width="1029" height="720" alt="Header_Picture" src="https://github.com/user-attachments/assets/b3de3402-a4ca-4025-a3c7-e1e1bbd78cf4" />
+
 
 # Why This Matters
 
