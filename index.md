@@ -1,6 +1,6 @@
 # Predicting Future Business Applications Across U.S. Island Areas
 
-                                           1.jpg
+1.jpg
 
 ## Why This Matters
 
